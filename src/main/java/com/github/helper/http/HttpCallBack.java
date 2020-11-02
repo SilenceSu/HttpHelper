@@ -16,7 +16,7 @@ import java.io.IOException;
  * Created by Silence on 2020/10/15.
  */
 public abstract class HttpCallBack implements Callback {
-    private static final Logger logger = LoggerFactory.getLogger(com.sh.helper.http.HttpCallBack.class);
+    private static final Logger logger = LoggerFactory.getLogger(HttpCallBack.class);
 
     @Override
     public void onFailure(Call call, IOException e) {

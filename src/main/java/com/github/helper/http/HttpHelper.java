@@ -2,12 +2,12 @@ package com.github.helper.http;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sh.helper.http.request.param.extend.CookicesParams;
-import com.sh.helper.http.request.param.extend.HeaderParams;
-import com.sh.helper.http.request.param.get.GetParams;
-import com.sh.helper.http.request.param.post.PostFormParams;
-import com.sh.helper.http.request.param.post.PostJsonParams;
-import com.sh.helper.http.request.param.post.PostParams;
+import com.github.helper.http.request.param.extend.CookicesParams;
+import com.github.helper.http.request.param.extend.HeaderParams;
+import com.github.helper.http.request.param.get.GetParams;
+import com.github.helper.http.request.param.post.PostFormParams;
+import com.github.helper.http.request.param.post.PostJsonParams;
+import com.github.helper.http.request.param.post.PostParams;
 import okhttp3.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -25,7 +25,7 @@ import java.util.Map;
 public class HttpHelper {
 
 
-    private static final Logger logger = LoggerFactory.getLogger(com.sh.helper.http.HttpHelper.class);
+    private static final Logger logger = LoggerFactory.getLogger(HttpHelper.class);
 
     private static  final ObjectMapper objectMapper = new ObjectMapper();
 
