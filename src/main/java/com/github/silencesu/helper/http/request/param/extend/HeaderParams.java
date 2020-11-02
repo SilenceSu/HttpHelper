@@ -1,4 +1,4 @@
-package com.github.helper.http.request.param.extend;
+package com.github.silencesu.helper.http.request.param.extend;
 
 import java.util.Map;
 

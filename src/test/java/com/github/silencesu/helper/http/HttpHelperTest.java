@@ -1,7 +1,7 @@
-package com.github.helper.http;
+package com.github.silencesu.helper.http;
 
-import com.github.helper.http.request.param.post.PostFormParams;
-import com.github.helper.http.request.param.post.PostJsonParams;
+import com.github.silencesu.helper.http.request.param.post.PostFormParams;
+import com.github.silencesu.helper.http.request.param.post.PostJsonParams;
 import org.junit.Test;
 
 import java.util.HashMap;

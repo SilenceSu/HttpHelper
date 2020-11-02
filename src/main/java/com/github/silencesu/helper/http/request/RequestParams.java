@@ -1,4 +1,4 @@
-package com.github.helper.http.request;
+package com.github.silencesu.helper.http.request;
 
 /**
  * com.sh.helper.http.HttpHelper 请求参数

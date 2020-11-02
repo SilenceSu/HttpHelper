@@ -1,7 +1,7 @@
-package com.github.helper.http.request.param.get;
+package com.github.silencesu.helper.http.request.param.get;
 
 
-import com.github.helper.http.request.RequestParams;
+import com.github.silencesu.helper.http.request.RequestParams;
 
 import java.util.Map;
 

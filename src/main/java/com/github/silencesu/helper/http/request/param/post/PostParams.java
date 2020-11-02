@@ -1,7 +1,7 @@
-package com.github.helper.http.request.param.post;
+package com.github.silencesu.helper.http.request.param.post;
 
 
-import com.github.helper.http.request.RequestParams;
+import com.github.silencesu.helper.http.request.RequestParams;
 
 /**
  * Http Help请求参数
